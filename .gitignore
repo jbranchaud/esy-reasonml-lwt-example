@@ -1,0 +1,4 @@
+_esy/
+esy.lock.json
+node_modules
+.merlin

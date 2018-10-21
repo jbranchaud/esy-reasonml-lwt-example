@@ -1,0 +1,7 @@
+lib: [
+  "/Users/jbranchaud/code/reason-experiments/esy-lwt-example/_esy/default/store/b/esy_lwt_example-0.1.0-7495cb18/install/default/lib/esy-lwt-example/META" {"META"}
+  "/Users/jbranchaud/code/reason-experiments/esy-lwt-example/_esy/default/store/b/esy_lwt_example-0.1.0-7495cb18/install/default/lib/esy-lwt-example/opam" {"opam"}
+]
+bin: [
+  "/Users/jbranchaud/code/reason-experiments/esy-lwt-example/_esy/default/store/b/esy_lwt_example-0.1.0-7495cb18/install/default/bin/Index.exe" {"Index.exe"}
+]
